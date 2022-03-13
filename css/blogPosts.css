@@ -93,7 +93,7 @@
      h5 {
     
        font-size: 3vw;
-       color: rgb(255, 255, 255);
+       color: black;
      }
     
      .cardColour {
@@ -104,7 +104,7 @@
        height: auto;
      
        padding-bottom: min(50px);
-       background:rgb(174, 150, 241) 50%;
+       background:#b9d2f2;
        background-size: cover;
        border-radius: 5%;
        margin-bottom: 20vw;
