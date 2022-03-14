@@ -200,6 +200,7 @@ html{ font-family: var(--text-paragraph), Verdana, Geneva, Tahoma, sans-serif;}
        text-align: left;
        max-width: 400px;
        margin: 0 auto;
+         font-size: 1.0em;
      }
 
     
